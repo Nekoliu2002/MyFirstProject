@@ -1,2 +1,2 @@
 # MyFirstProject
-### This is my fist coding project.
+### This is my first coding project.
